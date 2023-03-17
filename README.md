@@ -25,3 +25,8 @@ Files are divided into five folders, with each folder corresponding to a unique 
 - **Texas DOT** - TODO: insert link to DOT collaborator
 - **TODO: add links to related papers from the same project **
 - **FUNDING:** - TODO: add funding id and link to funding source
+- **Microsoft Bing Building Footprints** - https://github.com/microsoft/USBuildingFootprints
+- **Building Parcels** - https://tnris.org/stratmap/land-parcels/
+- **Wind Vectors** - https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
+- **Core Logic** - https://www.corelogic.com/
+
