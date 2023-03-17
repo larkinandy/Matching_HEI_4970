@@ -6,7 +6,7 @@
 Compare birth outcomes between upwind and downwind neighbors using linear and logistic regression
 
 
-- **[calculateWindDemographics.py](https://github.com/larkinandy/Matching_HEI_4970/blob/main/statistical%20analysis/scripts/calculateWindDemographics.ipynb)** - descriptive statistics for matched upwind/downwind pairs <br>
+- **[calculateWindDemographics.ipynb](https://github.com/larkinandy/Matching_HEI_4970/blob/main/statistical%20analysis/scripts/calculateWindDemographics.ipynb)** - descriptive statistics for matched upwind/downwind pairs <br>
 - **[epiAnalysisWindBirthWeight_HEI_4970.R](https://github.com/larkinandy/Matching_HEI_4970/blob/main/statistical%20analysis/scripts/epiAnalysisWindBirthWeight_HEI_4970.R)** - compare birth weight between upwind/downwind neighbors. <br>
 - **[epiAnalysisWindLowBirthWeight_HEI_4970.R](https://github.com/larkinandy/Matching_HEI_4970/blob/main/statistical%20analysis/scripts/epiAnalysisWindLowBirthWeight_HEI_4970.R)** - compare odds of low term birth weight between upwind/downwind neighbors. <br>
 - **[epiAnalysisWindPrematureBirt_HEI_4970.R](https://github.com/larkinandy/Matching_HEI_4970/blob/main/statistical%20analysis/scripts/epiAnalysisWindPrematureBirth_HEI_4970.R)** - compare odds of premature birth between upwind/downwind neighbors. <br>
