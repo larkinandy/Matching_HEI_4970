@@ -9,4 +9,4 @@ Scripts for preprocessing birth records.  Steps include:
 3) Remove variables not needed for deriving wind metrics
 4) Partition restricted records by birth year
 
-- **[preprocessBirths.py](https://github.com/larkinandy/LUR-NO2-Model/tree/master/birth%20records/preprocessBirths.py)** - script used for preprocessing births
+- **[preprocessBirths.py](https://github.com/larkinandy/Matching_HEI_4970/blob/main/birth%20records/preprocess_births.py)** - script used for preprocessing births
