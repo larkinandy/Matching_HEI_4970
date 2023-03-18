@@ -1,4 +1,4 @@
-![GitHub Logo](/Images/WindDirection.jpg )
+![GitHub Logo](/Images/WindDirection.png)
 
 **Summary** <br>
 This folder contains scripts for downloading wind vectors, converting vectors into wind direction, and calculating hours downwind from high-traffic roads
