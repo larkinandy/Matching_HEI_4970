@@ -1,4 +1,4 @@
-############### deriveWindShapefiles.py #############
+############### partitionWindByYear.py #############
 # Author: Andrew Larkin
 # Developed for HEI Transit Study
 # Summary: given hourly wind rasters and annual birth residences, extract hourly
