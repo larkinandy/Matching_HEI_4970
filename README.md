@@ -22,11 +22,13 @@ Files are divided into five folders, with each folder corresponding to a unique 
 
 **External Links**
 - **Publication** - TODO: insert link once published
-- **Texas DOT** - TODO: insert link to DOT collaborator
-- **TODO: add links to related papers from the same project **
-- **Funding:** - Health Effects Institute, Contract 4970-RFA18-1/20-4-2
+- **Funding** - [Health Effects Institute](https://www.healtheffects.org/), Contract 4970-RFA18-1/20-4-2
+- **Texas Roadway Inventory Annual Data** - https://www.txdot.gov/data-maps/roadway-inventory.html
 - **Microsoft Bing Building Footprints** - https://github.com/microsoft/USBuildingFootprints
 - **Building Parcels** - https://tnris.org/stratmap/land-parcels/
 - **Wind Vectors** - https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
 - **Core Logic** - https://www.corelogic.com/
 
+**Related Publications**
+- [HEI. Systematic Review and Meta-analysis of Selected Health Effects of Long-Term Exposure to Traffic-Related Air Pollution [Internet]. Health Effects Institute. 2022](https://www.healtheffects.org/publication/systematic-review-and-meta-analysis-selected-health-effects-long-term-exposure-traffic)
+- [Willis MD, Schrank D, Xu C, Harris L, Ritz BR, Hill EL, et al. A population-based cohort study of traffic congestion and infant growth using connected vehicle data. Sci Adv. 2022 Oct 28;8(43):eabp8281](https://pubmed.ncbi.nlm.nih.gov/36306359/)
