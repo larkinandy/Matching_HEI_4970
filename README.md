@@ -4,7 +4,7 @@
 Compare birth outcomes for residences upwind and downwind of same road
 
 **Author:** [Andrew Larkin](https://www.linkedin.com/in/andrew-larkin-525ba3b5/) <br>
-**Affiliation:** [Oregon State University, College of Public Health and Human Sciences](https://health.oregonstate.edu/) <br>
+**Affiliation:** [Oregon State University, College of Health](https://health.oregonstate.edu/) <br>
 **Principal Investigator:** [Perry Hystad](https://health.oregonstate.edu/people/perry-hystad) <br>
 
 
