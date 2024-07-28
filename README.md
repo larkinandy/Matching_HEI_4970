@@ -21,7 +21,7 @@ Files are divided into five folders, with each folder corresponding to a unique 
 - **[statistical analysis](https://github.com/larkinandy/Matching_HEI_4970/tree/master/statistical%20analysis)** - linear and logistic regression models to estimate impacts of living downwind on birth outcomes <br>
 
 **External Links**
-- **Publication** - TODO: insert link once published
+- **Publication** - [High Traffic Roads and Adverse Birth Outcomes: Comparing Births Upwind and Downwind of the Same Road](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwae120/7693601)
 - **Funding** - [Health Effects Institute](https://www.healtheffects.org/), Contract 4970-RFA18-1/20-4-2
 - **Texas Roadway Inventory Annual Data** - https://www.txdot.gov/data-maps/roadway-inventory.html
 - **Microsoft Bing Building Footprints** - https://github.com/microsoft/USBuildingFootprints
